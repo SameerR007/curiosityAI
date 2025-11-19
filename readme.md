@@ -10,7 +10,7 @@ You can try a live demo of the project here:
 ---
 
 ## Overview
-Modern learners face an overwhelming abundance of information. Books, videos, courses, blogs—yet finding trustworthy, relevant, and properly structured resources remains difficult, especially outside one’s area of expertise.
+Modern learners face an overwhelming abundance of information. Books, videos, courses, blogs; yet finding trustworthy, relevant, and properly structured resources remains difficult, especially outside one’s area of expertise.
 
 CuriosityAI solves this by handling the heavy lifting: researching, structuring, and generating clear, user-friendly content tailored to your background. Whether you’re a beginner or an expert, CuriosityAI produces content that meets you where you are.
 
@@ -55,7 +55,7 @@ CuriosityAI aims to evolve into a full agentic learning system with:
 ### **Architectural Enhancements**
 - Context-aware sequential writing (short-term memory)
 - Integrated research tools (search, Wikipedia, arXiv)
-- Evaluator–optimizer architecture with parallelism
+- Evaluator-optimizer architecture with parallelism
 
 ### **Expanded Output Formats**
 - Articles enriched with generated images
@@ -72,7 +72,12 @@ CuriosityAI aims to evolve into a full agentic learning system with:
 ## Research Questions
 CuriosityAI also provides a foundation for studying how users learn via AI-generated content:
 
-1. **Single-agent vs. multi-agent**: How does content quality degrade as token count increases for a single writer compared to multiple agents handling sections?
-2. **Evaluator bounds**: How many optimization iterations maximize quality without diminishing returns?
-3. **Format preferences**: Which content format is most/least preferred by users, and what does this imply about modern learning behavior?
-4. **User interaction patterns**: What types of questions do users ask about generated content, and what does this reveal about AI-assisted learning?
+Architectural based
+1. What is the tradeoff between using a single agent for writing all the sections vs using multiple agents to write different sections with respect to quality and length of the content?
+2. How does using different models for different parts (e.g., evaluator-optimizer) affect the final content output and system latency? 
+3. How can using domain-specific LLMs rather than general-purpose LLMs improve the quality of generated content?
+
+Data based
+4. Which output format is the most and least preferred by users, and what can we derive from this about the AI content consumption in people?
+5. What kind of questions do people query from the AI-generated content, and what does this tell us about the limitations of AI-generated content?
+6. Does the preferred format vary based on the topic complexity or the user's competence level (e.g., are books preferred for Easy topics, while podcasts/videos are preferred for Expert topics)?
