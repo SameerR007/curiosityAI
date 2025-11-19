@@ -69,7 +69,7 @@ CuriosityAI aims to evolve into a full agentic learning system with:
 
 ---
 
-## 🔬 Research Questions
+## Research Questions
 CuriosityAI also provides a foundation for studying how users learn via AI-generated content:
 
 ### Architectural Based
