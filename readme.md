@@ -69,15 +69,15 @@ CuriosityAI aims to evolve into a full agentic learning system with:
 
 ---
 
-## Research Questions
+## 🔬 Research Questions
 CuriosityAI also provides a foundation for studying how users learn via AI-generated content:
 
-Architectural based
+### Architectural Based
 1. What is the tradeoff between using a single agent for writing all the sections vs using multiple agents to write different sections with respect to quality and length of the content?
-2. How does using different models for different parts (e.g., evaluator-optimizer) affect the final content output and system latency? 
+2. How does using different models for different parts (e.g., evaluator-optimizer) affect the final content output and system latency?
 3. How can using domain-specific LLMs rather than general-purpose LLMs improve the quality of generated content?
 
-Data based
+### Data Based
 4. Which output format is the most and least preferred by users, and what can we derive from this about the AI content consumption in people?
 5. What kind of questions do people query from the AI-generated content, and what does this tell us about the limitations of AI-generated content?
 6. Does the preferred format vary based on the topic complexity or the user's competence level (e.g., are books preferred for Easy topics, while podcasts/videos are preferred for Expert topics)?
