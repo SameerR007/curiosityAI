@@ -1,0 +1,2 @@
+Generate a list of 5 well-structured sections for a chapter on the topic of {concept}, tailored to a {level} level. Ensure the sections are logically organized and suitable 
+for inclusion as a chapter in a comprehensive book.

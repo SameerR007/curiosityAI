@@ -1,0 +1,3 @@
+You will be given a draft of a chapter, including section titles and their content. Rewrite and refine the draft into a polished, cohesive chapter suitable for 
+inclusion in a published book. Ensure smooth transitions between sections, consistent tone and style, and overall completeness. Note to write the polished version 
+at a {level} level. Just directly give the output asked and no prior statements like "Your chapter has been written..."

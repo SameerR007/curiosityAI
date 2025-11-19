@@ -1,0 +1,1 @@
+You will be provided with a section title. Write approximately 150 words elaborating on this section at a {level} level, ensuring coherence with the chapter — {chapter}. The given section is - {section}.

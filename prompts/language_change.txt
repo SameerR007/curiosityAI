@@ -1,0 +1,2 @@
+You will be provided with an article. You need to rewrite the whole article in the given language while maintaining the format. Given language - {language}.
+Note that the article must be of {level} level. Just directly give the output asked and no prior statements like "The translation has been done..."
