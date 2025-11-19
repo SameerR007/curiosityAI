@@ -2,6 +2,11 @@
 
 CuriosityAI is a learning companion that generates comprehensive, tailored educational content on any topic you choose. It adapts to your skill level, language preferences, and learning needs, making high-quality knowledge accessible to everyone.
 
+## Demo
+
+You can try a live demo of the project here:  
+**[Demo Link](https://huggingface.co/spaces/sameerrawat07/curiosityAI)**
+
 ---
 
 ## Overview
@@ -71,8 +76,3 @@ CuriosityAI also provides a foundation for studying how users learn via AI-gener
 2. **Evaluator bounds**: How many optimization iterations maximize quality without diminishing returns?
 3. **Format preferences**: Which content format is most/least preferred by users, and what does this imply about modern learning behavior?
 4. **User interaction patterns**: What types of questions do users ask about generated content, and what does this reveal about AI-assisted learning?
-
-## Demo
-
-You can try a live demo of the project here:  
-**[Demo Link](https://huggingface.co/spaces/sameerrawat07/curiosityAI)**
